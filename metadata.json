@@ -1,0 +1,7 @@
+{
+  "name": "Planova House Plans",
+  "description": "Premium architectural house plans, 2D AutoCAD layouts, 3D house designs, floor plans, elevations, and custom house design orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
